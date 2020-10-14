@@ -10,7 +10,7 @@ Azure IoT Central encompasses a range of underlying technologies that work great
 
 ## Lab context
 
-In this workshop, you will learn how to deploy IoT Central Application Templates to rapdily build enterprise-grade IoT applications on a secure, reliable, and scalable infrastructure that optimize supply chains, improve experiences for customers, and track inventory more efficiently. You will see how Azure IoT Central enables the easy monitoring and management of a fleet of remote devices for logistics operations.
+In this workshop, you will learn how to deploy IoT Central Application Templates to rapidly build enterprise-grade IoT applications on a secure, reliable, and scalable infrastructure that optimize supply chains, improve experiences for customers, and track inventory more efficiently. You will see how Azure IoT Central enables the easy monitoring and management of a fleet of remote devices for logistics operations.
 
 ## Exercise 1 - Getting Started with Azure IoT Central
 
