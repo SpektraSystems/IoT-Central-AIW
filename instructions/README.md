@@ -26,6 +26,6 @@ In this exercise, you will see how to connect an IoT Plug and play certified dev
 
 ## Exercise 4 -	IoT Central Openness and Integrations
 
-In this exercise, you will see the openness and the integration capabilities of IoT Central
+In this exercise, you will see the openness and the integration capabilities of IoT Central, how to detect anomalies and trigger alerts as well as how to do a continuous data export from IoT Central
 
 
