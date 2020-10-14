@@ -22,7 +22,7 @@ In this exercise you will learn how to add custom branding and operator resource
 
 ## Exercise 3 -	Connect IoT Plug and Play Certified Devices
 
-In this exercise, you will see how to connect an IoT Plug and play certified devices from the device catalog to your existing IoT Central Application
+In this exercise, you will see how to connect an IoT Plug and play certified devices to your existing IoT Central Application
 
 ## Exercise 4 -	IoT Central Openness and Integrations
 
